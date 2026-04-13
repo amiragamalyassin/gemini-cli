@@ -40,7 +40,14 @@ This project follows
 ### Get started
 
 The process for contributing code is as follows:
+Pro-tip for New Contributors:
+We love welcoming new developers! If you're looking for an accessible way to start, consider:
 
+Improving Documentation: Fix typos, clarify sections, or add examples in the /docs directory.
+
+Small Fixes: Look for issues labeled as good first issue or help with minor bug fixes.
+
+This is a great way to get familiar with our workflow and coding standards before jumping into complex features!
 1.  **Find an issue** that you want to work on. If an issue is tagged as
     `🔒Maintainers only`, this means it is reserved for project maintainers. We
     will not accept pull requests related to these issues. In the near future,
